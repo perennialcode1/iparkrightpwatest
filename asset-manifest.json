@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.751ae789.css",
+    "main.js": "/static/js/main.53f4427e.js",
+    "static/js/787.8024d9b6.chunk.js": "/static/js/787.8024d9b6.chunk.js",
+    "static/media/carimage1.jpg": "/static/media/carimage1.5cccc9664ce66468c077.jpg",
+    "static/media/parkrightlogo.png": "/static/media/parkrightlogo.fcf69fa3bb6e3ad18c8d.png",
+    "static/media/profile_av.jpg": "/static/media/profile_av.9e56ad1f4a3950cfb954.jpg",
+    "index.html": "/index.html",
+    "main.751ae789.css.map": "/static/css/main.751ae789.css.map",
+    "main.53f4427e.js.map": "/static/js/main.53f4427e.js.map",
+    "787.8024d9b6.chunk.js.map": "/static/js/787.8024d9b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.751ae789.css",
+    "static/js/main.53f4427e.js"
+  ]
+}
